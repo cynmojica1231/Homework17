@@ -10,4 +10,4 @@ Created a fitness tracking app utilizing Node.js, Express.js, MongoDB, Heroku an
 
 ## Live site:
 
-https://too-fit-to-quit.herokuapp.com/
+https://cmojica-work-tracker.herokuapp.com/
